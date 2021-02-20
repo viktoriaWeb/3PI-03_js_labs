@@ -1,7 +1,7 @@
 Методи 
 
-forEach,
-filter,
+forEach
+filter
 map 
 every 
 some
